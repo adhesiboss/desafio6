@@ -1,0 +1,393 @@
+body {
+  font-family: "Lobster", cursive;
+  font-family: "Cabin", sans-serif;
+  background-color: #333a40;
+  color: #373a3c;
+}
+a.nav-link {
+  font-size: 16px;
+  color: #ffffff !important;
+  font-family: "Cabin", sans-serif;
+  font-weight: normal;
+}
+.hr-top {
+  display: block;
+  margin-top: 13px;
+  margin-bottom: 14px;
+  background-color: #000000;
+}
+.hr-bottom {
+  margin-top: -30px;
+  background-color: #000000;
+}
+hr {
+  margin-top: 7.5px;
+  margin-bottom: 17px;
+  height: 1pt;
+  background-color: #000000 !important;
+}
+header {
+  width: 100%;
+  height: auto;
+}
+.cabeza {
+  padding-left: 37px;
+  padding-right: 37px;
+}
+.cuerpo {
+  padding-left: 37px;
+  padding-right: 37px;
+  background-color: #ffffff;
+}
+.titulo {
+  padding-top: 13.5px;
+}
+.receta {
+  padding-top: 40px !important;
+  padding-left: 37px;
+  padding-right: 37px;
+  background-color: #ffffff;
+}
+h1 {
+  font-size: 25px;
+}
+
+section {
+  padding-top: 100px;
+}
+.container img {
+  width: 100%;
+}
+a.navbar-brand {
+  width: 137px;
+  height: 46px;
+  font-size: 37px;
+  font-family: "Lobster", cursive;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+nav {
+  font-family: "Cabin", sans-serif;
+}
+h5 {
+  font-size: 16px;
+  font-weight: bold;
+}
+.botones {
+  width: 100%;
+  margin-top: 21px;
+  font-weight: normal;
+}
+button.btn {
+  width: 114.21px;
+  height: 40px;
+  padding: 0px !important;
+}
+.btn-header {
+  margin-right: 20px;
+}
+.btn-outline-secondary {
+  font-size: 13px;
+}
+h2 {
+  font-size: 25px !important;
+  margin-top: 19.5px;
+  margin-bottom: 38.5px;
+  color: #373a3c !important;
+}
+h3 {
+  font-size: 16px;
+  text-decoration: none;
+  margin-bottom: 30px;
+  font-weight: bold;
+  letter-spacing: 0.48px;
+}
+h4 {
+  font-size: 16px;
+  text-decoration: none;
+  margin-bottom: 10px;
+  letter-spacing: 0.48px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 30px;
+  letter-spacing: 0.48px;
+}
+li {
+  margin-bottom: 12px;
+  font-size: 16px;
+  letter-spacing: 0.48px;
+  font-weight: normal;
+}
+#work {
+  padding-top: 20px !important;
+  padding-left: 37px;
+  padding-right: 37px;
+  padding-bottom: 36.19px;
+}
+.card-deck .card {
+  margin-bottom: 26.19px !important;
+}
+
+h5.card-title {
+  font-size: 17px;
+  font-weight: bold;
+  margin-bottom: 31px;
+}
+p.card-text {
+  font-size: 16px;
+  font-weight: normal;
+}
+div.card-body {
+  padding-top: 22.21px;
+  padding-left: 15.19px;
+  padding-right: 15.19px;
+}
+section {
+  padding-top: 62px !important ;
+}
+.newsletter {
+  padding-top: 95.6px;
+  padding-left: 37px;
+  padding-right: 37px;
+  padding-bottom: 95px;
+}
+h2.suscribete {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 22px;
+  color: #ffffff !important;
+}
+.newsletter h3 {
+  font-family: "Cabin", sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  margin-bottom: 27.5px !important;
+  text-decoration: none;
+}
+.newsletter h3 span {
+  font-size: 20px;
+}
+.newsletter span {
+  font-family: "Lobster", cursive;
+}
+.empezar {
+  padding-left: 90px;
+  padding-right: 90px;
+  width: 233px !important;
+  height: 40px;
+}
+footer {
+  width: 100%;
+  height: auto;
+  font-size: 37px;
+  font-family: "Lobster", cursive;
+  text-align: center;
+  margin: 0;
+  color: #ffffff;
+  padding-bottom: 34px;
+  padding-left: 19.5px;
+  padding-right: 19.5px;
+  padding-top: 41px;
+}
+footer p {
+  margin: 0px;
+  padding: 0px;
+  height: 46px;
+}
+
+@media (min-width: 1280px) {
+  div.container.marca:first-of-type {
+    margin-left: 57px;
+    margin-right: 57px;
+  }
+  a.nav-link {
+    font-size: 16px;
+    color: #ffffff !important;
+    font-family: "Cabin", sans-serif;
+    font-weight: normal;
+  }
+  .color-fondo {
+    background-color: #ffffff;
+    padding: 0px;
+    margin: 0px;
+  }
+  .hr-top {
+    display: none;
+  }
+  h1 {
+    font-size: 40px;
+    text-align: left;
+    font-family: "Cabin", sans-serif;
+    font-weight: bold;
+    color: #373a3c;
+    padding-top: 13px;
+    width: 425px;
+  }
+  .cuerpo {
+    padding-top: 40px;
+    padding-left: 37px;
+    padding-right: 37px;
+    margin-bottom: 68px;
+    background-color: #ffffff !important;
+  }
+  hr {
+    margin-top: 23.5px;
+    margin-bottom: 17px;
+    height: 1px;
+    background-color: #333a40;
+  }
+  .botones {
+    width: 100%;
+    margin-top: 24px;
+    font-weight: normal;
+    justify-content: left !important;
+    margin-top: 24px;
+  }
+  button.btn {
+    width: 141.71px;
+    height: 40px;
+    padding: 0px !important;
+  }
+  button.btn.btn-outline-secondary.segundo {
+    margin-left: 24.29px !important;
+  }
+  h5 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Cabin", sans-serif;
+  }
+  .carusel {
+    margin-bottom: 57px;
+    width: 1090px;
+    background-color: #ffffff;
+  }
+  .carousel-indicators {
+    top: 160px;
+  }
+  .carousel-indicators li.indicator {
+    margin-top: 50px;
+    width: 10px;
+    height: 10px;
+    background-color: #333a40;
+    border-radius: 50%;
+  }
+  .hr-bottom {
+    margin-top: 0px;
+    margin-bottom: 38px;
+    background-color: #333a40;
+  }
+
+  .receta {
+    padding-top: 20.32px !important;
+    font-size: 20px !important;
+    font-family: "Cabin", sans-serif;
+    background-color: #ffffff;
+  }
+  h3 {
+    font-size: 20px;
+    text-decoration: none;
+    width: 145px;
+    border-bottom: 1px solid;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+    font-weight: normal;
+    letter-spacing: 0.6px;
+  }
+  ul {
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 30px;
+    letter-spacing: 0.6px;
+  }
+  li {
+    font-size: 20px;
+    letter-spacing: 0.6px;
+    font-weight: normal;
+    line-height: 30px;
+  }
+  h2.display-4 {
+    font-size: 40px !important;
+    margin-top: 22.5px;
+    margin-bottom: 50.5px;
+  }
+  h5.card-title {
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 7px;
+    margin-top: 23px;
+  }
+  div.card-body {
+    padding-top: 0px;
+    padding-left: 19.52px;
+    padding-right: 19.52px;
+    padding-bottom: 33.81px;
+  }
+  div.card-deck {
+    height: 400px;
+  }
+  #work {
+    padding-bottom: 79.19px;
+    width: 1156px;
+    background-color: #ffffff;
+  }
+  .newsletter {
+    padding-top: 150.5px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 197px;
+  }
+  .news {
+    width: 980px;
+  }
+  h2.suscribete {
+    font-size: 40px !important;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 7px;
+  }
+  .newsletter h3 {
+    width: 100%;
+    font-family: "Cabin", sans-serif;
+    font-size: 30px !important;
+    font-weight: normal;
+    margin-bottom: 39.5px !important;
+    text-decoration: none;
+    border-bottom: 0px !important;
+  }
+  .newsletter h3 span {
+    font-size: 30px !important;
+  }
+  .newsletter span {
+    font-family: "Lobster", cursive;
+    font-size: 30px;
+  }
+  .empezar {
+    width: 233px;
+    padding-left: 90px;
+    padding-right: 90px;
+  }
+  footer {
+    width: 100%;
+    height: auto;
+    font-size: 37px;
+    font-family: "Lobster", cursive;
+    text-align: center;
+    margin: 0;
+    color: #ffffff;
+    padding-bottom: 38px;
+    padding-left: 571.5px;
+    padding-right: 571.5px;
+    padding-top: 15px;
+  }
+  footer p {
+    margin: 0px;
+    padding: 0px;
+    height: 46px;
+  }
+}
